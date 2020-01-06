@@ -5,4 +5,4 @@ Part of this research was published at IEEE CIDM 2019 and can be accessed here: 
 
 It was also used for my Master's Thesis with the topic "Neural Network Methods for Natural Language Inference in German".
 
-This repository contains only the essential code for our research.
+This repository contains only the essential code for our research. If you are interested in more details, please contact the owner.
